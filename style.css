@@ -125,8 +125,8 @@ body {
 }
 
 .about-img img {
-  width: 320px;
-  height: 320px;
+  width: 520px;
+  height: 300px;
   border-radius: 50%;
   border: 5px solid #0ef;
   transition: 0.4s;
